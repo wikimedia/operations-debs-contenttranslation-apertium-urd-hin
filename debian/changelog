@@ -1,0 +1,11 @@
+apertium-urd-hin (0.1.0+svn~r60389-1) trusty; urgency=low
+
+  [ Tino Didriksen ]
+  * Initial release
+  * No tarball release, so taking directly from svn
+
+  [ Kartik Mistry ]
+  * Rebuilt for Trusty.
+  * Fixed dependencies.
+
+ -- Kartik Mistry <kartik@debian.org>  Thu, 11 Jun 2015 16:35:23 +0530
