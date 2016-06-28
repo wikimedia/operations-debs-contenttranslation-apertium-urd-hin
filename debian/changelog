@@ -1,3 +1,14 @@
+apertium-urd-hin (0.1.0~r64379-1+wmf1) jessie-wikimedia; urgency=low
+
+  * New upstream release.
+  * Rebuild for Jessie.
+  * debian/control:
+    + Fixed dependencies.
+  * debian/rules:
+    + Simple rules file.
+
+ -- Kartik Mistry <kartik@debian.org>  Tue, 23 Aug 2016 11:55:34 +0530
+
 apertium-urd-hin (0.1.0+svn~r60389-1) trusty; urgency=low
 
   [ Tino Didriksen ]
